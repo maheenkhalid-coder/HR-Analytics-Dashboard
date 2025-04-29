@@ -26,7 +26,7 @@ This Power BI dashboard comprehensively analyzes employee data across department
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](./HR Analytics Dashboard.JPG)
+![Dashboard Screenshot](./HRAnalyticsDashboard.JPG)
 
 ---
 
