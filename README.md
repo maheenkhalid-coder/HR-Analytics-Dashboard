@@ -42,7 +42,7 @@ This Power BI dashboard comprehensively analyzes employee data across department
 2. Explore filters to view insights by department, gender, and satisfaction levels.
 3. Use key influencers to discover what factors contribute to employee attrition.
 4. Analyze age, tenure, job involvement, and office location data to get deeper insights.
-5. For previewing the dashboard, review this video: [Youtube Video](https://youtu.be/bB53hDMvaUE)
+5. For previewing the dashboard, review this video: [Youtube Video](https://youtu.be/bB53hDMvaUE).
 
 ---
 
